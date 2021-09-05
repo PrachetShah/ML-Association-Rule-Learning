@@ -1,10 +1,11 @@
 # ML-Association-Rule-Learning
 
-# Algorithms Used:
+<h2>Algorithms Used:</h2>
 <ul>
   <li>Apriori</li>
   <li>Eclat</li>
 </ul>
 
-# Dataset Used:
+<h2>Dataset Used:</h2>
+Market_Basket_Optimisation.csv
 
