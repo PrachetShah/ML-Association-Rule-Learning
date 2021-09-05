@@ -1,2 +1,10 @@
 # ML-Association-Rule-Learning
-Eclat and Apriori Methods for Association Rule Learning in Python for ML
+
+# Algorithms Used:
+<ul>
+  <li>Apriori</li>
+  <li>Eclat</li>
+</ul>
+
+# Dataset Used:
+
