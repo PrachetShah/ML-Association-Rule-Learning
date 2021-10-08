@@ -1,6 +1,6 @@
 # ML-Association-Rule-Learning
 
-<h2>Algorithms Used:</h2>
+<h2>Algorithms Used for Models:</h2>
 <ul>
   <li>Apriori</li>
   <li>Eclat</li>
